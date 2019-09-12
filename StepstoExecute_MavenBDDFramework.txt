@@ -1,0 +1,11 @@
+Steps to Execute:
+
+Download all the files from Repository and save in a dedicated folder.
+
+1.Open eclipse
+2.Select Import > Click maven > Existing Maven Projects 
+3.Browse the project and select newly created folder 
+4.Click on finish
+5.Expand project Name (AutomationBDDFramework) > Select Runner > Open TestRunner.java
+6.Move cursor to TestRunner.java file and Right-click > Select Run as >Junit Test
+7.Execution begins
